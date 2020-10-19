@@ -11,11 +11,11 @@ sections:
   match: "**/*"
 - type: directory
   path: content
-  label: Pages
+  label: Paginas
   create: all
   match: "*.md"
 - type: heading
-  label: Documentation
+  label: Documentación
 - type: document
   path: README.md
   label: README
